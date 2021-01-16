@@ -20,7 +20,7 @@ use-site-title: false
 
 ## Introduction
 
-This tool relies on [Tinyscript](https://github.com/dhondta/tinyscript) and allows to recursively (de)compress nested archives according to various decompression algorithms implemented in [Patool](https://github.com/wummel/patool).
+This tool relies on [Tinyscript](https://github.com/dhondta/tinyscript/) and allows to recursively (de)compress nested archives according to various decompression algorithms implemented in [Patool](https://github.com/wummel/patool).
 
 
 ## Installation
